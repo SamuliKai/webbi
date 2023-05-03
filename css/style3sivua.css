@@ -1,0 +1,26 @@
+
+
+body {
+    background-color: whitesmoke;
+}
+.important {
+    color: red;
+}
+
+textarea {
+    background-color: white;
+}
+
+.list-group {
+    background-color: yellow; 
+}
+
+h3 {
+    text-align: center;
+    font-style: italic;
+}
+
+p {
+    text-align: center;
+    font-style: oblique;
+}
